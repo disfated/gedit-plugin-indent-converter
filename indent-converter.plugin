@@ -1,7 +1,7 @@
-[Gedit Plugin]
+[Plugin]
 Loader=python
 Module=indent-converter
-IAge=2
+IAge=3
 Name=Indent Converter
 Name[ru]=Конвертер отступов
 Description=Converts tabs to spaces and spaces to tabs
