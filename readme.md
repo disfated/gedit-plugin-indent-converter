@@ -12,7 +12,7 @@ Adds two items to **Edit** menu:
 ## Installation
 
 1. Download latest source package.
-2. Copy `indent-converter.gedit-plugin` file and `indent-converter` folder to `~/.gnome2/gedit/plugins/` (or `/usr/lib/gedit-2/plugins/` for system-wide installation).
+2. Copy `indent-converter.plugin` file and `indent-converter.py` folder to `~/.local/share/gedit/plugins/` (or `/usr/lib/gedit/plugins/` for system-wide installation).
 3. Open (restart) Gedit.
 4. Go to **Edit** - **Preferences** - **Plugins**.
 5. Enable plugin.
